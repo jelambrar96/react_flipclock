@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_flipclock/static/css/main.0df0fa8d.css",
+    "main.js": "/react_flipclock/static/js/main.dd3d91c0.js",
+    "static/js/787.ee023efc.chunk.js": "/react_flipclock/static/js/787.ee023efc.chunk.js",
+    "index.html": "/react_flipclock/index.html",
+    "main.0df0fa8d.css.map": "/react_flipclock/static/css/main.0df0fa8d.css.map",
+    "main.dd3d91c0.js.map": "/react_flipclock/static/js/main.dd3d91c0.js.map",
+    "787.ee023efc.chunk.js.map": "/react_flipclock/static/js/787.ee023efc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df0fa8d.css",
+    "static/js/main.dd3d91c0.js"
+  ]
+}
